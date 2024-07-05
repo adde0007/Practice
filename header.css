@@ -61,6 +61,7 @@
     border-color: gray;
     border-radius: 2px;
     box-shadow: inset 1px2px 5px black;
+    outline:none;
 
 }
 .search-bar::placeholder{
